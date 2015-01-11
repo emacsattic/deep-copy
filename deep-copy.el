@@ -1,26 +1,10 @@
-;;; deep-copy.el
-
-;; Copyright (C) 1991, 2005 Noah S. Friedman
+;;; deep-copy.el --- make complete recursive copy of data structures
 
 ;; Author: Noah Friedman <friedman@splode.com>
-;; Maintainer: friedman@splode.com
+;; Keywords: lisp, extensions
+;; License: public domain
 
-;; $Id: deep-copy.el,v 1.1 2005/11/23 07:36:46 friedman Exp $
-
-;; This program is free software; you can redistribute it and/or modify
-;; it under the terms of the GNU General Public License as published by
-;; the Free Software Foundation; either version 2, or (at your option)
-;; any later version.
-;;
-;; This program is distributed in the hope that it will be useful,
-;; but WITHOUT ANY WARRANTY; without even the implied warranty of
-;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-;; GNU General Public License for more details.
-;;
-;; You should have received a copy of the GNU General Public License
-;; along with this program; if not, you can either send email to this
-;; program's maintainer or write to: The Free Software Foundation,
-;; Inc.; 51 Franklin Street, Fifth Floor; Boston, MA 02110-1301, USA.
+;; $Id: deep-copy.el,v 1.2 2013/08/03 17:22:02 friedman Exp $
 
 ;;; Commentary:
 ;;; Code:
